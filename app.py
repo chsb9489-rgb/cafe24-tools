@@ -101,7 +101,7 @@ CATEGORIES = [
                 "title": "재구매율 & 고객 등급(RFM) 분석기",
                 "repo": "cafe24-rfm-analyzer",
                 "desc": "고객별 최근 구매일·빈도·금액을 분석하여 VIP, 이탈 위험, 휴면 고객 등 세그먼트를 자동으로 분류합니다.",
-                "url": "cafe24-rfm-analyzer",
+                "url": "https://cafe24-rfm-analyzer",
             {
                 "icon": "💬",
                 "title": "리뷰 자동 수집 & 감성/키워드 분석기",
