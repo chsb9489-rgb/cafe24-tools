@@ -146,7 +146,7 @@ CATEGORIES = [
                 "title": "카페24 상품 대량 등록/수정기",
                 "repo": "cafe24-product-bulk-uploader",
                 "desc": "카페24 공식 엑셀 양식에 내 상품 데이터를 자동 매핑하여 채워주는 대량 등록/수정 보조 도구입니다.",
-                "url": "https://cafe24-product-bulk-uploader.streamlit.app/",
+                "url": "https://cafe24-appuct-bulk-uploader.streamlit.app/",
             },
         ],
     },
