@@ -18,7 +18,7 @@ TOOLS = [
         "title": "카페24 송장 자동 매칭기",
         "repo": "cafe24-invoice-checker",
         "desc": "카페24 주문 목록과 택배사 출력 송장 데이터를 대조하여 출고 수량 불일치 및 송장 미발행 주문을 실시간 정제합니다.",
-        "url": "https://cafe24-invoice-checker.streamlit.app/",
+        "url": "https://cafe24-invoice-matcher.streamlit.app/",
     },
     {
         "icon": "📦",
