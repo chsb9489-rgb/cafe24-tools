@@ -160,6 +160,13 @@ CATEGORIES = [
                 "desc": "스마트스토어, 쿠팡 등 채널별 주문 엑셀의 열 구조와 주소 포맷을 카페24 업로드용 표준 양식으로 일괄 자동 변환합니다.",
                 "url": "https://cafe24-format-converter.streamlit.app/",
             },
+            {
+                "icon": "🔀",
+                "title": "타 플랫폼 ↔ 카페24 주문 서식 변환기 (구버전)",
+                "repo": "cafe24-order-converter",
+                "desc": "스마트스토어, 쿠팡 등 채널별 주문 엑셀을 카페24 업로드용 표준 양식으로 변환하는 초기 버전입니다.",
+                "url": "https://cafe24-order-converter.streamlit.app/",
+            },
         ],
     },
     {
